@@ -1,0 +1,12 @@
+# Ignore node_modules from root and all subfolders
+node_modules/
+**/node_modules/
+
+# IDE and OS
+.vscode/
+.DS_Store
+
+# Build outputs
+dist/
+build/
+.next/
